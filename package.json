@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  
+  "homepage": "https://evelina2707.github.io/02-react-cafe",
   "scripts": {
   "build": "vite build",
   "predeploy": "npm run build",
